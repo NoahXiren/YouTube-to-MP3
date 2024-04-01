@@ -54,7 +54,7 @@ Please use this code only if you understand its purpose and how it works. The au
 
 ## Author
 
-- [XiranXibi](https://github.com/XiranXibi)
+- [XiranXibi](https://github.com/NoahXiren)
 
 ## License
 
