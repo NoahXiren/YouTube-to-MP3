@@ -1,4 +1,4 @@
-# YouTube Audio Downloader
+d# YouTube Audio Downloader
 
 I created this script so i can download my favorite music froom youtube. I updated the youtube downloader to just download its audio. i think there might be better
 way to create this script but i used the previous library and updated it.
@@ -54,7 +54,7 @@ Please use this code only if you understand its purpose and how it works. The au
 
 ## Author
 
-- [XiranXibi](https://github.com/NoahXiren)
+- [NoahXiren](https://github.com/NoahXiren)
 
 ## License
 
